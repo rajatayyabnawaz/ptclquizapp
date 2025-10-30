@@ -66,7 +66,7 @@ export default function QuizApp() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-indigo-700 via-blue-600 to-cyan-500 px-4 py-10">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-indigo-700 via-blue-600 to-cyan-500 px-4 py-30">
       <div className="relative bg-white/10 backdrop-blur-lg border border-white/20 shadow-2xl rounded-3xl w-full sm:w-[400px] md:w-[600px] p-8 text-white">
         {!isFinished ? (
           <>
