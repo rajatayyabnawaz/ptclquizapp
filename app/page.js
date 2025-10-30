@@ -73,7 +73,7 @@ export default function QuizApp() {
             {/* Header */}
             <div className="mb-6 text-center">
               <h1 className="text-3xl font-extrabold tracking-wide drop-shadow-md">
-                🚀 PTCL Optical Quiz
+                 PTCL Optical Quiz
               </h1>
               <p className="text-sm opacity-80 mt-1">
                 Question {currentIndex + 1} of {questions.length}
