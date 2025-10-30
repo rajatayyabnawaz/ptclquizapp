@@ -14,7 +14,7 @@ export default function Footer() {
             className="rounded-full shadow-md"
           />
           <h2 className="text-lg font-semibold tracking-wide">
-             <span className="font-bold">Raja Tayyab Nawaz</span>
+             Created By <span className="font-bold">Raja Tayyab Nawaz</span>
           </h2>
         </div>
 
