@@ -14,7 +14,7 @@ export default function Footer() {
             className="rounded-full shadow-md"
           />
           <h2 className="text-lg font-semibold tracking-wide">
-            Quiz App Created By <span className="font-bold">Raja Tayyab Nawaz</span>
+             <span className="font-bold">Raja Tayyab Nawaz</span>
           </h2>
         </div>
 
